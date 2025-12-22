@@ -1,6 +1,6 @@
 data "azurerm_mssql_server" "sql" {
         name     = "pan-sqlserver"
-    resource_group_name = "vinod-rg11"
+    resource_group_name = "pan-rg11"
   
 }
 
